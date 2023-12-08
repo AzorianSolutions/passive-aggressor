@@ -40,6 +40,13 @@ the message within the middle of the randomized directory structure, with each c
 aggressor -m "Your message here" ./path/to/output/file.zip ./path/to/files/to/compress/*
 ```
 
+If your message is "Hello World", the directory structure in the archive will look something like this,
+except much longer!
+
+```
+a/F/d/r/W/5/v/1//H/e/l/l/o/W/o/r/l/d/f/0/3/J/d
+```
+
 ### Output File Argument
 
 You must specify the output file with the first argument. The file name must end with either `.zip` or `.tar.gz`.
