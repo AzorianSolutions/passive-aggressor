@@ -5,7 +5,7 @@ where the path can also spell out a custom message.
 
 This is perfect for those peers you don't like.
 
-**This currently only works on Linux but has support for Windows and Mac has been started in the code base.**
+**This currently only works on Linux but support for Windows and Mac has been started in the code base.**
 
 ## TL;DR - Linux
 
