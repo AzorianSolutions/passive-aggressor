@@ -1,0 +1,8 @@
+*.egg-info
+.idea
+*.pyc
+__pycache__
+venv
+___*
+/*.tar.gz
+/*.zip
