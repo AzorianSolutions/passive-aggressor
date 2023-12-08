@@ -22,7 +22,7 @@ aggressor -m "Your message here" ./path/to/output/file.zip ./path1/to/files/to/c
 
 ## Options & Arguments
 
-### Debug Mode
+### Debug Option
 
 You can activate debug mode with the `-d` or `--debug` flag. This will cause the program to print out a lot of
 information.
@@ -33,7 +33,7 @@ aggressor -d ./path/to/output/file.zip ./path/to/files/to/compress/*
 
 ### Message Option
 
-You can optionally specify a custom message with the `-m` or `--message` flag. This will cause the program to implant
+You can optionally specify a custom message with the `-m` or `--message` option. This will cause the program to implant
 the message within the middle of the randomized directory structure, with each character becoming its own directory.
 
 ```
