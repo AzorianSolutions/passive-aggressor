@@ -55,7 +55,7 @@ You must specify the output file with the first argument. The file name must end
 aggressor OUTPUT_PATH_HERE ./path/to/files/to/compress/*
 ```
 
-### Input File(s) Argument
+### Input Path(s) Argument(s)
 
 You must specify at least one input file or directory with the second argument. You can specify multiple files and
 directories.
